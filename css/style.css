@@ -68,7 +68,7 @@
 
 #blog .owl-carousel .owl-nav {
   position: absolute;
-  top: calc((100% - 30px)/2);
+  top: calc((100% - 30px) / 2);
   margin-top: 0;
   display: -webkit-box;
   display: -ms-flexbox;
